@@ -1,2 +1,2 @@
-# CursGit2
-lucru cu brancheuri
+# joi-rețetar-2022
+lucru cu branch-uri
