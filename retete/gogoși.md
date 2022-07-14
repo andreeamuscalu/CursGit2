@@ -1,4 +1,4 @@
-Gogoși
+# Gogoși
 
 - Făină
 - Drojdie
