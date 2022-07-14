@@ -1,5 +1,5 @@
 # Sarmale
 
-Orez
-Foi Varză murată
-Carne tocată
+- Orez
+- Foi Varză murată
+- Carne tocată
