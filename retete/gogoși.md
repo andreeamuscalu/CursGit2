@@ -1,5 +1,5 @@
 Gogoși
 
-Făină
-Drojdie
-Zahăr
+- Făină
+- Drojdie
+- Zahăr
