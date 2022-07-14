@@ -6,3 +6,5 @@ Lucru cu branch-uri
 Va conține rețete.
 
 aceasta modificare este facuta in browser
+
+Rețetarul se vece [aici](./)
