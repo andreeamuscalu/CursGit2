@@ -1,7 +1,7 @@
 # joi-rețetar-2022
 Lucru cu branch-uri
 
-##Descriere
+## Descriere
 
 Va conține rețete.
 
