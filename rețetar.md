@@ -1,4 +1,4 @@
 Aceasta este lista de rețete pe care o cunoaștem
 
 ## Mic dejun 
-[Clătite](./retete/clatite.md)
+- [Clătite](./retete/clatite.md)
