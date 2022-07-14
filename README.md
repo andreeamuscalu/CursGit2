@@ -7,4 +7,4 @@ Va conține rețete.
 
 aceasta modificare este facuta in browser
 
-Rețetarul se vece [aici](./)
+Rețetarul se vece [aici](./re%C8%9Betar.md)

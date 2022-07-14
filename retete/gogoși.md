@@ -1,0 +1,5 @@
+Gogoși
+
+Făină
+Drojdie
+Zahăr
